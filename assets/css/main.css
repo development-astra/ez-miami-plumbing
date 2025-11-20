@@ -1919,13 +1919,13 @@ form button.btn:hover {
 }
 
 .services .card .card-footer .btn-primary {
-  background-color: #4b006f !important;
-  border-color: #4b006f !important;
+  background-color: #073863 !important;
+  border-color: #073863 !important;
 }
 
 .services .card:hover .btn-primary {
   background-color: #ffffff !important;
-  color: #4b006f !important;
+  color: #073863 !important;
   border-color: #ffffff !important;
 }
 
