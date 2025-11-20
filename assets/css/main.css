@@ -487,7 +487,7 @@ h6 {
 
 /* Location Badge */
 .badge.location {
-  background: rgba(184, 67, 172, 1);
+  background: #1e5a8f;
   color: #ffffff;
   padding: 8px 15px;
   font-size: 14px;
@@ -499,7 +499,7 @@ h6 {
 /* Promotion Badge */
 .badge.promotion {
   background: #ffffff;
-  color: #520962;
+  color: #073863;
   padding: 5px 12px;
   font-size: 18px;
   /* border-radius: 15px; */
@@ -1002,7 +1002,7 @@ h6 {
   right: 15px;
   bottom: -15px;
   z-index: 99999;
-  background-color: #b843ac;
+  background-color: #073863;
   width: 44px;
   height: 44px;
   border-radius: 50px;
@@ -1463,7 +1463,7 @@ section,
 }
 
 .hero .hero-content .hero-btns .cta-btn:hover {
-  background: #b843ac;
+  background: #073863;
   color: #ffffff;
 }
 
@@ -1501,13 +1501,13 @@ form button.btn {
   justify-content: center;
   align-items: center;
   border-radius: 8px;
-  background: #b843ac;
+  background: #073863;
   gap: 12px;
   align-self: stretch;
 }
 
 form button.btn:hover {
-  background-color: #520962;
+  background-color: #1e5a8f;
   color: #ffffff;
 }
 
@@ -1974,12 +1974,12 @@ form button.btn:hover {
   padding: 16px 40px;
   /* background-color: #16495F; */
   border: none;
-  background-color: #520962;
+  background-color: #073863;
   font-weight: 600;
 }
 
 .advantages .btn:hover {
-  background-color: #b843ac;
+  background-color: #1e5a8f;
 }
 
 .advantages ul li .details {
@@ -2326,8 +2326,8 @@ form button.btn:hover {
 }
 
 .contact-section form button.btn {
-  background-color: #b843ac !important;
-  border: 1px solid #b843ac !important;
+  background-color: #073863 !important;
+  border: 1px solid #073863 !important;
   padding: 16px;
   border-radius: 8px;
 }
